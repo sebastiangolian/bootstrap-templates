@@ -2,7 +2,7 @@
 Bootstrap templates
 
 ## Test app
-[bootstrap-4](https://sebastiangolian.github.io/bootstrap-templates/)
+[bootstrap-templates](https://sebastiangolian.github.io/bootstrap-templates/)
 
 ## Getting started
 ```bash
