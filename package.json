@@ -1,0 +1,14 @@
+{
+  "name": "bootstrap-templates",
+  "version": "1.0.0",
+  "description": "Bootstrap templates",
+  "scripts": {
+    "deploy": "node scripts/deploy.js"
+  },
+  "author": "sebastiangolian <sebastiangolian@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/sebastiangolian/bootstrap-templates#readme",
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "svn.ignoreMissingSvnWarning": true,
+    "files.exclude": {
+        "scripts": true,
+        ".vscode": true,
+        "node_modules/": true,
+        "package-lock.json": true,
+        "readme.md": true,
+        ".gitignore": true
+      }
+}
