@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Bootstrap templates",
   "scripts": {
-    "deploy": "node scripts/deploy.js"
+    "deploy": "gh-pages -d ."
   },
   "author": "sebastiangolian <sebastiangolian@gmail.com>",
   "license": "MIT",
